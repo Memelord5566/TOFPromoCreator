@@ -1,0 +1,24 @@
+{
+    "Setting Descriptions": {
+
+        "Proxies": {
+            "Use Proxies": "Whether you want to use proxies or not. HQ proxies are recommended. | true, false",
+            "Proxy Type": "Proxy type you would like to use. | http, socks4, socks5"
+        },
+
+        "Config": {
+            "Threads": "Max concurrent registrations running at once. Actual threads are determined by your proxies speed / quality.",
+            "Amount To Generate": "Amount of accounts you would like to generate."
+        }
+    },
+
+    "Proxies": {
+        "Use Proxies": true,
+        "Proxy Type": "http"
+    },
+
+    "Config": {
+        "Threads": 12,
+        "Amount To Generate": 3000
+    }
+}
